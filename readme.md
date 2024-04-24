@@ -26,4 +26,4 @@ Match Group students
    b) Ensure to have this groups only:  SYSTEM = FULL ACCESS, Administrators  - full access, finance = readonly access (Full control and modify access should be disabled).
  9. Now login to active directory account that you added as part of student group,  then create an rsa key pair by running command: ssh-keygen -t rsa -b 4096. 
     You will need the public key inserted on students_authorized_keys
-10. On examiner app, click on gear icon, then provide the required information.
+10. On quissh app, click on gear icon, then provide the required information.
