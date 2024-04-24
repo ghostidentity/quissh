@@ -1,0 +1,70 @@
+[start:1]
+Question: What is the capital of France?
+A: Paris
+B: London
+C: Berlin
+D: Madrid
+[end]
+[start:2]
+Question: Who wrote "Romeo and Juliet"?
+A: William Shakespeare
+B: Charles Dickens
+C: Jane Austen
+D: Mark Twain
+[end]
+[start:3]
+Question: What is the chemical symbol for water?
+A: H2O
+B: CO2
+C: NaCl
+D: O2
+[end]
+[start:4]
+Question: What is the powerhouse of the cell?
+A: Mitochondria
+B: Nucleus
+C: Ribosome
+D: Golgi Apparatus
+[end]
+[start:5]
+Question: What is the formula for finding the area of a rectangle?
+A: Length × Width
+B: Length + Width
+C: Length ÷ Width
+D: Length - Width
+[end]
+[start:6]
+Question: Who discovered gravity?
+A: Isaac Newton
+B: Albert Einstein
+C: Galileo Galilei
+D: Stephen Hawking
+[end]
+[start:7]
+Question: Which planet is known as the Red Planet?
+A: Mars
+B: Venus
+C: Jupiter
+D: Saturn
+[end]
+[start:8]
+Question: What is the longest river in the world?
+A: Nile River
+B: Amazon River
+C: Yangtze River
+D: Mississippi River
+[end]
+[start:9]
+Question: What is the largest organ in the human body?
+A: Skin
+B: Liver
+C: Brain
+D: Heart
+[end]
+[start:10]
+Question: What is the primary function of the respiratory system?
+A: Breathing
+B: Digestion
+C: Circulation
+D: Sight
+[end]
