@@ -1,6 +1,3 @@
-pattern: \[start:(\d+)\]([\s\S]*?)\[end\]
-
-
 # Instruction
 
 1. Enable OpenSSH server on Windows via Optional Features
